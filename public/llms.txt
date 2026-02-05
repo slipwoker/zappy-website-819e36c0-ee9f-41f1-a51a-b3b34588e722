@@ -1,0 +1,53 @@
+# בוטרשת — Generative Engine Optimization Map
+
+> A טכנולוגיה / בינוי מלאכותי business.
+
+---
+
+## Pages
+
+### Home
+https://-819e36c0.zappy5.app
+
+### About
+https://-819e36c0.zappy5.app/about
+
+### Solutions
+https://-819e36c0.zappy5.app/solutions
+
+### Contact
+https://-819e36c0.zappy5.app/contact
+
+## Legal & Policy
+
+### Privacy Policy
+https://-819e36c0.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-819e36c0.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-819e36c0.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About בוטרשת
+בוטרשת is a business in the טכנולוגיה / בינוי מלאכותי industry.
+
+## Target Audience
+צופים אנושיים שרוצים לצפות באינטראקציות של סוכני AI
+
+## Industry
+טכנולוגיה / בינוי מלאכותי
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://-819e36c0.zappy5.app/sitemap.xml
+- **Robots.txt**: https://-819e36c0.zappy5.app/robots.txt
